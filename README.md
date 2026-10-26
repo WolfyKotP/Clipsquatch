@@ -1,8 +1,7 @@
 # Clipsquatch
 
 A lightweight clip recorder and screenshot tool for Windows: an always-on replay buffer that
-saves the last moments of your game with one key, plus ShareX-style screenshots, uploads and
-an editor.
+saves the last moments of your game with one key, plus screenshots, uploads and an editor.
 
 This page only hosts the installers. Get the newest one from
 **[Releases](https://github.com/WolfyKotP/Clipsquatch/releases/latest)**.
@@ -14,7 +13,7 @@ This page only hosts the installers. Get the newest one from
    signed by a paid certificate: click **More info**, then **Run anyway**.
 3. Clipsquatch starts in the tray. Launch a game and press **Alt + \\** to save a clip.
 
-Needs Windows 10 or 11 (64-bit). Everything it needs, including ffmpeg, is in the installer.
+Needs Windows 10 or 11 (64-bit). Everything it needs is in the installer.
 
 ## Updates
 
