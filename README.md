@@ -6,6 +6,9 @@ saves the last moments of your game with one key, plus screenshots, uploads and 
 This page only hosts the installers. Get the newest one from
 **[Releases](https://github.com/WolfyKotP/Clipsquatch/releases/latest)**.
 
+**New here? Read the [step-by-step guide](GUIDE.md)**: installing, your first clip, and
+everything else Clipsquatch can do.
+
 ## Install
 
 1. Download `Clipsquatch_x.y.z_x64-setup.exe` from the latest release.
