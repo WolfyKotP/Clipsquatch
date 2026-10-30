@@ -196,6 +196,11 @@ Paste a Discord webhook in **Settings → Accounts** (Discord: Server Settings �
 
 **Settings → Uploads → Upload clips automatically**: every clip you save, or every clip you star, optionally only for some games and also posted to Discord. Off unless you turn it on.
 
+### Upload pictures and videos from your PC
+
+- **Add from PC…** (library toolbar), or drag files from File Explorer onto the Clipsquatch window. They're copied into your library and, with the box ticked, uploaded with the links copied.
+- **Right-click upload:** turn on **Settings → General → Upload from the right-click menu**. Then right-click pictures or videos in File Explorer → **Upload with Clipsquatch** (on Windows 11, under **Show more options**). The links are copied and a popup tells you when it's done.
+
 ### Bringing in uploads from before
 
 On the **Uploads** page or the Screenshots tab, use **Import links**:
