@@ -67,6 +67,15 @@ You can add a **third and fourth clip length**, **Clip and share** (save, upload
 
 **What to record**: *Game window* (only the game, so alt-tabbing never shows your desktop) or *Whole display*.
 
+### More than one game running
+
+Clipsquatch records the first game you start and stays on it until it closes, so opening a second game doesn't switch by itself. To switch:
+
+- Click the game's name in the box at the top left (it shows **▾ 2 running**) and pick the one to record. **Automatic** goes back to the default.
+- Or set a **Switch game** key in Settings → Hotkeys to flip between them without leaving the game.
+
+If the game you picked closes, Clipsquatch goes back to Automatic.
+
 ### Clips never overlap
 
 Press the clip key twice a minute apart and the second clip holds just the new minute, not the same footage again. Clips that follow on from each other show **⛓ linked**: select them and press **Join seamlessly** to make one continuous video with no gap.
