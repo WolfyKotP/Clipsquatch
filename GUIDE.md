@@ -232,6 +232,13 @@ The **Storage** page shows space used, free space on the drive, and space by gam
 - **Find duplicates:** copies of the same file and the same screenshot saved twice are ticked for you. Look-alikes and clips that share footage are listed for you to judge.
 - **Clear cache:** thumbnails, waveforms and other files Clipsquatch makes again whenever needed. It never touches your clips, settings or uploads.
 
+### Saving space with the cloud
+
+Two ways, both in **Settings → Storage**. They only run while no game is running and nothing is recording, a few clips at a time. Starred clips and full sessions are never touched.
+
+- **Keep old clips only in OneDrive:** for a clips folder inside your OneDrive folder (set it with Clips folder → **Change…**). Clips older than the days you pick stay in your library and their folders, marked **☁ ONEDRIVE**, but their space on your PC is freed. They're private and full quality; opening one downloads it. You can also do it by hand from the Storage page (**Keep in OneDrive only**), and bring clips back with **Select → Keep on this PC**.
+- **Move old clips to your upload account:** clips older than the days you pick, or the oldest ones while the folder is over a size you pick, are uploaded to your upload host and removed from your PC, staying in your library as online-only (they play inside Clipsquatch). Anyone with a link can see them.
+
 **Automatic clean-up** (Settings → Storage) can keep the clips folder under a size, or remove clips after a number of days. Starred clips are always kept, and it's off unless you turn it on.
 
 **Backup** (Settings → General → Back up) saves your settings, stars, tags, notes, albums and upload links to one file. Keep it somewhere safe; **Restore** brings it back after reinstalling or on a new PC. The clips themselves aren't in it; copy your clips folder for those.
