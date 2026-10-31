@@ -100,11 +100,22 @@ The sidebar has **Clips**, **Screenshots**, **Albums**, **Uploads** and **Storag
 
 Press **Ctrl + K** anywhere in the app. Type to jump to any clip, album or setting, or to run an action like *New album* or *Clear cache*.
 
+### Right-click menu
+
+Right-click any clip or screenshot for its quick actions, right where your mouse is: open, quick look, star, add to album, copy or upload a link, copy the file, show in folder, rename, and delete. The delete choices are all there with no "are you sure" box:
+
+- **Delete** sends it to the Recycle Bin, with an **Undo** button for 10 seconds.
+- **Delete, keep online copy** (for uploaded ones) frees the space but keeps it in your library as online only.
+- **Upload, then delete from this PC** (for ones not uploaded yet) uploads it to your upload account (Settings, Accounts), then frees the space, keeping it in your library as online only.
+- **Delete here and from Fivemanage/Streamable** removes the online copy too.
+
+Less used buttons live behind **⋯** at the top of the library (Best of…, Import links, Open folder) and **More ▾** in the select bar (Tag, Join seamlessly, Make montage).
+
 ### Selecting many
 
 1. Press **Select**.
 2. Click clips to pick them. **Shift + click** picks everything between two clicks. **Select all** picks everything in the current view.
-3. The bar at the bottom can **Star**, **Tag**, **Delete**, **Add to album**, **Join seamlessly**, **Make montage** or make a **Share page**.
+3. The bar at the bottom can **Star**, **Delete**, **Add to album** or make a **Share page**. **More ▾** has **Tag**, **Join seamlessly** and **Make montage**.
 
 **Deleting** sends files to the Recycle Bin and shows an **Undo** button for 10 seconds that brings them back with their stars, tags and albums. When some of them are uploaded, you can keep their online copies, or delete them from your account too (Fivemanage and Streamable).
 
@@ -140,7 +151,7 @@ Click a clip to open the editor.
 - **Bookmarks:** **B** adds or removes one at the playhead, **[** and **]** jump between them. *Cut a clip at each bookmark* makes short clips around them; *Find loud moments* bookmarks gunfire, shouting and laughs.
 - **Sections:** slow-motion and speed-ups, zoom, freeze frames, blur an area, mute or bleep audio, sound effects.
 - **Captions** from what's said, a **watermark**, and **presets** for sizes such as vertical videos for phones.
-- **GIF**, **Montage** (several clips with transitions, titles and music) and **Best of…** (your starred clips from a stretch of time).
+- **GIF**, **Montage** (several clips with transitions, titles and music) and **Best of…** (under **⋯** at the top of the library: your starred clips from a stretch of time).
 
 Once a week Clipsquatch offers to turn last week's starred clips into a **highlights reel**. Nothing is made unless you say so.
 
@@ -212,7 +223,7 @@ Paste a Discord webhook in **Settings → Accounts** (Discord: Server Settings �
 
 ### Bringing in uploads from before
 
-On the **Uploads** page or the Screenshots tab, use **Import links**:
+On the **Uploads** page, or **⋯** at the top of the library with **Uploaded** turned on, use **Import links**:
 
 - Paste links (page links or direct links, mixed with other text is fine).
 - Paste a **vgy.me album** link to bring in a whole album.
